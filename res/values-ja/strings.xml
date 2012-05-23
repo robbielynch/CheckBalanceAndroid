@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, VodafoneBalanceActivity!</string>
+    <string name="app_name">Balance</string>
+    <string name="no_country">Your Country Is Currently Not Supported</string>
+    <string name="no_network">Your Network Is Currently Not Supported</string>
+    <string name="diy_message">Appは、モバイルオペレータを見つけることができません。 \nあなたは、手動で以下のモバイルオペレータUSSDコード（＃例：は* 123）保存することができます。</string>
+    <string name="enter_ussd_here">ここUSSD入力してください</string>
+    <string name="save">保存</string>
+    <string name="tap_to_get_the_donate_version">バージョンが寄付取得するにはここをタップ</string>
+    <string name="hi">Hi</string>
+
+</resources>
