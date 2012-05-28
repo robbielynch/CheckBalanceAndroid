@@ -113,8 +113,8 @@ public class CheckBalance extends Activity {
         
         
         
-        
-        //find out what country the user is in
+        //If there are no Shared Preferences saved, then the following code will be executed
+        //to find out what country the user is in and call the appropriate class.
         //-----------------------------------------------------------------------------------------
         //IRELAND--------------------------------------------------------------------------------------
         //-----------------------------------------------------------------------------------------
