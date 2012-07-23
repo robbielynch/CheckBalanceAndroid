@@ -26,7 +26,7 @@ public class Romania extends Country {
 	        }
 	        //Romania cosmote
 	        else if(operatorName.contains("Cosmote") || operatorName.contains("osmote") || operatorName.contains("COSMOTE")){
-	        	code = "*" + "100" + encodedHash;
+	        	code = "*" + "134" + encodedHash;
 	        	//contact network provider
 	        	callUSSD(code);
 	        }
