@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, VodafoneBalanceActivity!</string>
+    <string name="app_name">Balance</string>
+    <string name="no_country">Your Country Is Currently Not Supported</string>
+    <string name="no_network">Your Network Is Currently Not Supported</string>
+    <string name="diy_message">L\'App non riesce a trovare il vostro operatore mobile. \nÈ possibile salvare manualmente i mobili Operatori codice USSD (es. * 123 #) qui sotto.</string>
+    <string name="enter_ussd_here">Inserisci USSD Qui</string>
+    <string name="save">salvare</string>
+    <string name="tap_to_get_the_donate_version">Toccare qui per scaricare la versione Donate</string>
+    <string name="hi">Hi</string>
+
+</resources>
