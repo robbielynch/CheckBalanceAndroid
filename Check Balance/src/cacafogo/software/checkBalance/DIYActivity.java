@@ -11,7 +11,7 @@ import android.widget.EditText;
 
 public class DIYActivity extends Activity {
 	
-	 
+     //
      String tempUssd = "";
 
 	@Override
