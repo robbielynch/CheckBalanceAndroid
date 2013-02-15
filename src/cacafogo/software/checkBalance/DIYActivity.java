@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class DIYActivity extends Activity {
-	
+//Comment for Github
 	 
      String tempUssd = "";
 
