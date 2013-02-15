@@ -51,7 +51,7 @@ public class CheckBalance extends Activity {
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.main);
         
-        
+        //
         /*
          * 	GET NETWORK DETAILS
          */
