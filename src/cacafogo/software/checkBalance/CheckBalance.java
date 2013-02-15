@@ -58,6 +58,8 @@ import android.telephony.TelephonyManager;
 import android.util.Log;
 
 public class CheckBalance extends Activity {
+	
+	//Testing Git Push
    
     private Intent intent;
     private String encodedHash = Uri.encode("#");
