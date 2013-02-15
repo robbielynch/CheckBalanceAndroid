@@ -15,7 +15,7 @@ public class Uzbekistan extends Country {
 
 	    
 	    
-	    
+	    //
 	    public void checkNetworks(){
 	    	//build ussd code based on operator
 	    	
